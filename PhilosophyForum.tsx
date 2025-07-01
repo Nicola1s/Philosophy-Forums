@@ -1,0 +1,1 @@
+<PhilosophyForum component code already in canvas>
